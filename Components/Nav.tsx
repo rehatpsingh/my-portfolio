@@ -17,7 +17,6 @@ import { Bars3Icon } from '@heroicons/react/16/solid';
         <div className='nav-link'>SERVICES</div>
         <div className='nav-link'>ABOUT</div>
         <div className='nav-link'>PROJECT</div>
-        <div className='nav-link'>BLOG</div>
         <div className='nav-link'>CONTACT</div>
         <div onClick={openNav}>
             <Bars3Icon className="w-[2rem] md:hidden h-[2rem] cursor-pointer text-yellow-300"/>
